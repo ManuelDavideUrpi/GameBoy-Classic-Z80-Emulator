@@ -11,3 +11,6 @@ these files are licensed under the GPL 3.0. For info, read the file License.md
 # Attention, it is very important!
 
  If you modify the project you must subsequently publish the changes and indicate where you got the sources from (my name + my repository + my github link), moreover for any use of this project I would like you to notify me. Thanks and good job!
+ 
+![alt text](https://raw.githubusercontent.com/ManuelDavideUrpi/GameBoy-Classic-Z80-Emulator/master/Dump.png)
+
