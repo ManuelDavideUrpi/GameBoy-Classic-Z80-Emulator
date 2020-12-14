@@ -8,7 +8,7 @@ Hi, this repository contains the gameboy classic (z80) cpu emulator project. Som
   $ ./Main.o YOUR_GB_ROM.gb
 ```
 # License
-these files are licensed under the GPL 3.0. For info, read the file License.md
+these files are licensed under the GPL 3.0. For info, read the file LICENSE
 
 # Warning 
   the project is not fully tested, it could have bugs
